@@ -1,0 +1,25 @@
+UFMG
+
+- Aula Prática de Teste de Software	  [Quinta]
+- Reunião com aluna de monitoira Isabela  [Sábado]
+
+
+CIANO
+
+- Autenticação via email na IA de Suporte: Conversa com a Monik
+- Fluxos de usuário no Agente de SDR: Conversa com o Cássio
+- Reunião sdr-agent para sexta
+
+NUMMUS
+
+- Testar se a llm mapea corretamente as informações dos contratos para a planilha.
+- Melhorar a interface da árvore de arquivos.
+- Sistema multiusuário autenticação + arquivos na nuvem
+- Arquivos de títulos gerados na etapa de seleção devem ser salvos em um path adequado 
+
+
+
+VoiceFlow
+
+- Demo do código [Sexta 9h]
+
