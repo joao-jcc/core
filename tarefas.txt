@@ -1,14 +1,13 @@
 UFMG
 
-- Aula Prática de Teste de Software	  [Quinta]
-- Reunião com aluna de monitoira Isabela  [Sábado]
+- Aula 11 de FSPD.  [Segunda 13h]
 
 
 CIANO
 
 - Autenticação via email na IA de Suporte: Conversa com a Monik
 - Fluxos de usuário no Agente de SDR: Conversa com o Cássio
-- Reunião sdr-agent para sexta
+- Desenvolver plataforma do agente de SDR baseado no repositório Assistant. [Domingo]
 
 NUMMUS
 
@@ -18,8 +17,6 @@ NUMMUS
 - Arquivos de títulos gerados na etapa de seleção devem ser salvos em um path adequado 
 
 
-
 VoiceFlow
 
-- Demo do código [Sexta 9h]
 - Demo [Segunda]
