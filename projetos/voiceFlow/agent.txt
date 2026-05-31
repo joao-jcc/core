@@ -1,0 +1,9 @@
+== DEMO ==
+
+Simular conversa real com o agente negociando.
+
+
+== Agent ==
+
+Ajustar estrutura do código para template-fastapi.
+Agente deve argumentar para tentar fechar a proposta, vide slides no slack com negociação de exemplo.
