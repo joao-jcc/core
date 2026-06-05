@@ -3,6 +3,13 @@ UFMG
 - Aula 11 de FSPD.  [Segunda 13h]
 
 
+SDR-AGENT
+- Configurar webhook: chatwoot ciano
+
+INSIGHTS PANEL
+- Conferir bugs com a Ana Carolina no discord. Bugs no chat.
+
+
 CIANO
 
 - Autenticação via email na IA de Suporte: Conversa com a Monik
